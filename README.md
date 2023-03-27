@@ -2,6 +2,8 @@
 
 An easy to use template for any developer to create an awesome portfolio!
 
+![alt text](https://github.com/[neolawz]/[dev-site]/blob/[main]/ogimg.jpg?raw=true)
+
 ## Installation
 
 ### Using the GitHub CLI
