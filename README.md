@@ -11,6 +11,7 @@ An easy to use template for any developer to create an awesome portfolio!
 ```
 gh repo clone neolawz/dev-site
 ```
+#### or
 
 ### Download the Zip folder above
 Unarchive the downloaded zip file.
