@@ -45,6 +45,12 @@ To retrieve your OpenAI API key you need to create a user account at https://ope
 
 Once obtained, copy it into the .env.local file.
 
+## Run the development server on localhost:3000
+
+```
+pnpm dev
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
