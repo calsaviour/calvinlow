@@ -27,11 +27,6 @@ const NavbarItems = [
     icon: FiClock,
   },
   {
-    name: "Links",
-    slug: "/links",
-    icon: FiPaperclip,
-  },
-  {
     name: "All-knowing Friend",
     slug: "/chat",
     icon: GiBrain,

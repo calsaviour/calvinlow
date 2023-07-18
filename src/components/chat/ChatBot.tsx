@@ -34,6 +34,7 @@ const InputMessage = ({ input, setInput, sendMessage }: any) => (
     <Button
       type="submit"
       className="ml-4 flex-none"
+      disabled={true}
       onClick={() => {
         sendMessage(input)
         setInput('')

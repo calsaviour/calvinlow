@@ -35,37 +35,14 @@ export default function Layout({
         <link rel="icon" href={`https://fmj.asrvd.me/${emoji}`}></link>
         <title>
           {currentRoute === "/"
-            ? "Nathaniel // Software Engineer"
+            ? "Calvin // Software Engineer"
             : `Law // ${currentRoute.slice(1)}`}
         </title>
         <meta name="description" content={description} />
         <meta name="theme-color" content="#121212" />
-        <meta property="og:site_name" content="Nathaniel" />
-        <meta
-          property="og:title"
-          content={`neolawz${
-            currentRoute.slice(1).length > 1
-              ? ` // ${currentRoute.slice(1)}`
-              : ``
-          }`}
-        />
+        <meta property="og:site_name" content="Calvin" />
         <meta property="og:type" content="website" />
         <meta property="og:description" content={description} />
-        <meta
-          property="twitter:title"
-          content={`nlaw${
-            currentRoute.slice(1).length > 1
-              ? ` // ${currentRoute.slice(1)}`
-              : ``
-          }`}
-        />
-        <meta property="twitter:description" content={description} />
-        <meta
-          property="og:image"
-          content="https://nlaw.dev/img/ogimg.jpg"
-        />
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:site" content="@eywa_eth" />
       </Head>
       <main className="font-clash max-h-auto bg-black-500 relative flex min-h-screen flex-col items-center overflow-x-hidden selection:bg-violet-800/30">
         <div className="flex h-full w-full md:w-2/3">

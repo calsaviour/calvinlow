@@ -1,12 +1,12 @@
 ---
-publish_date: 9 March, 2023
+publish_date: 18 Jul, 2023
 ---
 
 # About Me
 #### A Brief Synopsis
 
-I have always been curious about technology. The first code I ever wrote was a bash script that loaded Linux onto an old macbook. Ever since I got that to work, I have been intrigued by being able to get computers to do what I want them to.
+In the vast realm of technology, I have found my calling as a devoted steward, entrusted with overseeing the very foundations of digital landscapes. Within my current role, I am ardently responsible for shaping the architecture, fortifying operations, optimizing scale, and upholding security standards. My relentless pursuit of excellence revolves around crafting systems that are not only safe but also elevate the productivity of fellow engineers, culminating in deliverables that inspire unwavering trust.
 
-I enjoy software development, particulary areas around computer networking and information security. When I'm not building web apps I'm secretly trying to hack into dummy wifi networks with a Raspberry Pi.
+To me, the significance of a single line of code resonates as deeply as the grand vision and strategies driving our company's exponential growth. Aligning the minutiae of coding intricacies with the overarching business objectives is the cornerstone of accelerating our collective journey towards success.
 
-Generally, I want to contribute to a world that places value on public good and open access to technology over growth and profit. For me, software development is a tool I can use to help contribute to that future.
+Join me on this captivating voyage through the ever-evolving world of software engineering, where we'll unravel the secrets of cultivating trustworthy systems, and explore how technology can propel our businesses to greater heights. Together, let's delve into the intricacies of code craftsmanship and uncover the transformative power it holds in shaping our future endeavor
