@@ -16,8 +16,7 @@ const Home = (props: {
             </h2>
             <p className="m-0 mb-4 text-zinc-300"></p>
             <p className="m-0 text-sm text-zinc-400">
-              Building helpful tools for the communities I am apart of. I am on
-              a never ending quest for knowledge.
+              Always Be Coding
             </p>
           </div>
           <div className="min-w-fit">

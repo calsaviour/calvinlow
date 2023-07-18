@@ -25,7 +25,7 @@ export default {
       });
 
       stack.addOutputs({
-        url: site.url
+        url: site.customDomainUrl
       });
     });
   },
