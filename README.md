@@ -2,26 +2,6 @@
 
 An easy to use template for any developer to create an awesome portfolio!
 
-![alt text](https://github.com/neolawz/dev-site/blob/main/public/img/ogimg.jpg?raw=true)
-
-## Installation
-
-### Using the GitHub CLI
-
-```
-gh repo clone neolawz/dev-site
-```
-#### or
-
-### Download the Zip folder above
-Unarchive the downloaded zip file.
-
-Move into the root folder of the project.
-
-```bash
-cd dev-site-main
-```
-
 ## Getting Started
 
 Using pnpm:
